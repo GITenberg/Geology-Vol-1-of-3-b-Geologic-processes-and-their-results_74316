@@ -1,5 +1,8 @@
 _repo: Geology-Vol-1-of-3-b-Geologic-processes-and-their-results_74316
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74316-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Chamberlin, Thomas C. (Thomas Chrowder)
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/39266
     wikipedia: https://en.wikipedia.org/wiki/Rollin_D._Salisbury
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74316#Geology-Vol-1-of-3-b-Geologic-processes-and-their-results
 gutenberg_issued: '2024-08-27'
 gutenberg_type: Text
 identifiers:
